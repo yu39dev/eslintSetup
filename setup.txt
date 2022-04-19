@@ -1,0 +1,3 @@
+ここはeslintをvscodeに設定するためのフォルダです。
+https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code
+を参考に設定
