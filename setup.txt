@@ -1,3 +1,4 @@
 ここはeslintをvscodeに設定するためのフォルダです。
 https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code
 を参考に設定
+node_modulesフォルダはnpm installでインストールされるのでアップロードは不要らしい。ファイル容量が増えてしまい、都合が悪いらしいとのこと。
